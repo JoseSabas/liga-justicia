@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ## Actualizando desde GitHub
 Este es un mensaje editado desde GitHub
+
+## Estos cambios son nuevos
