@@ -11,3 +11,5 @@ Este es un mensaje editado desde GitHub
 
 ## Estos cambios son nuevos desde mi repositorio local
 ## Estos cambios son nuevos desde GitHub
+
+# Cambios
